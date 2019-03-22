@@ -2,7 +2,9 @@
 Answer interview questions
 
 ### Q: What is a namespace?
+sfadzsfas
 ### Q: What are value types?
+fasdasd
 ### Q: What are reference types?
 ### Q: What is an automatic property and how is it useful?
 ### Q: What is the purpose of using statement?
